@@ -4,7 +4,7 @@
 
 (() => {
   // DO'STINGIZ ISMINI BU YERGA QO'YING:
-  const friendName = "Ali"; // misol: "Samir"
+  const friendName = "Abdullaziz"; // misol: "Samir"
 
   // Kod DOM tayyor bo'lgach bajarilsin
   document.addEventListener('DOMContentLoaded', () => {
@@ -199,3 +199,4 @@
     }
   });
 })();
+
