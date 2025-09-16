@@ -1,0 +1,2 @@
+# tugilgan_kun_uchun_tabrik
+tugilgan_kun_uchun_tabrik
